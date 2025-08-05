@@ -91,5 +91,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 🎓 Student at Universitas Surabaya (Ubaya)  
 🔬 Focused on realistic, anti-mainstream security tooling  
 💀 Specialized in offensive security
-🔗 GitHub: [https://github.com/LucasPereira1999-os](https://github.com/LucasPereira1999-os)  
-🔗 LinkedIn: [www.linkedin.com/in/hendra-wijaya-b2b308372](www.linkedin.com/in/hendra-wijaya-b2b308372)
