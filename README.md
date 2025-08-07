@@ -66,7 +66,7 @@ python main.py --input_zip secret.zip --wordlist custom_list.txt
 Install dependencies:
 
 ```bash
-pip install pyzipper
+pip install - r requirements.txt
 ```
 
 ---
