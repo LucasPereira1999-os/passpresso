@@ -1,3 +1,4 @@
+
 import generate as g
 import pyzipper
 import argparse
@@ -32,8 +33,9 @@ for i in password_file:
             for name_file in all_file:
                 with ar.open(name_file) as f:
                     cont = f.read().decode("utf-8", errors="ignore")
-            print(f"\rPassword found: {i}")
-            print(cont)
+            print(f"\n[+] Password found: {i}")
+            print(f"[+] File name   : {name_file}")
+            print(f"[+] File content:\n{cont}")
             found = True
             break
     except Exception as e:
