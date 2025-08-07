@@ -86,7 +86,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**Blaze Ice**  
+**LUCAS**  
 🧠 Red Team & Malware Research Enthusiast  
 🎓 Student at Universitas Surabaya (Ubaya)  
 🔬 Focused on realistic, anti-mainstream security tooling  
