@@ -1,3 +1,4 @@
+
 def main():
     import random
     import string
@@ -19,10 +20,10 @@ def main():
 
     ]
 
-    weight_of_add_option = [54,2,5,26,13]
+    weight_of_add_option = [13,2,5,54,26]
 
-    add_amount = [1, 2]
-    weight_amount = [80, 20]
+    add_amount = [1, 2, 3]
+    weight_amount = [70, 20, 10]
 
     add_position = ["first", "mid", "last", "none"]
     weight_position = [5,10,24,61]
@@ -54,6 +55,9 @@ def main():
 
             if len(words) == 1:
                 split_pos = 1
+
+            else:
+                split_pos = 0
 
             password_temp = words[:split_pos] + combine_ad_mnt + words[split_pos:]
 
