@@ -88,6 +88,6 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 **LUCAS**  
 🧠 Red Team & Malware Research Enthusiast  
-🎓 HTB (Hackthebox student)
+🎓 HTB (Hackthebox student)             
 🔬 Focused on realistic, anti-mainstream security tooling  
 💀 Specialized in offensive security
