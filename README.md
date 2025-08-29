@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-brightgreen.svg"/>
-  <img src="https://img.shields.io/badge/platform-linux-blue"/>
+  <img src="https://img.shields.io/badge/platform-linux & windows-blue"/>
   <img src="https://img.shields.io/badge/license-MIT-purple"/>
   <img src="https://img.shields.io/badge/python-3.8+-yellow.svg"/>
 </p>
